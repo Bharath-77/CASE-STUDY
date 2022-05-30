@@ -1,2 +1,2 @@
-<h1> Hi Capgemini Friends   </h1>
+<h1> Hi Capgemini Friend   </h1>
 
